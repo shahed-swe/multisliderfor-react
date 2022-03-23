@@ -1,5 +1,5 @@
 {
-    "name": "react-range-slider",
+    "name": "multisliderfor-react",
     "version": "1.0.0",
     "description": "Package for react where you can make single and multi range slider easily. Easily usable and also able to modify styles customly",
     "author": "Md Shahed Talukder",
@@ -55,10 +55,13 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/shahed-swe/react-range-slider.git"
+        "url": "git+https://github.com/shahed-swe/multisliderfor-react.git"
     },
     "bugs": {
-        "url": "https://github.com/shahed-swe/react-range-slider/issues"
+        "url": "https://github.com/shahed-swe/multisliderfor-react/issues"
     },
-    "homepage": "https://github.com/shahed-swe/react-range-slider#readme"
+    "homepage": "https://github.com/shahed-swe/multisliderfor-react#readme",
+    "directories": {
+        "example": "example"
+    }
 }
